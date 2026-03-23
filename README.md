@@ -3,7 +3,8 @@
 ![Preview](./src/assets/preview.png)
 
 #
-<p> Este repositorio contiene la implementación técnica de una interfaz de alta fidelidad, traduciendo un diseño conceptual de Figma Community a un entorno funcional utilizando tecnologías modernas de frontend.</p>
+
+- Este repositorio contiene la implementación técnica de una interfaz de alta fidelidad, traduciendo un diseño conceptual de Figma Community a un entorno funcional     utilizando tecnologías modernas de frontend.
 - ✨ Modern & Minimal Hero Layouts
 - 🎨 Clean Landing Page UI
 - 🚀 Figma to Frontend: Hero Sections

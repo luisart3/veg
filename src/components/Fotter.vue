@@ -6,25 +6,25 @@ const foods = [
         
         name: 'Sandwich',
         price: 'Rs. 129/-',
-        url: '../src/assets/Sandwich.png'
+        url: new URL('../../src/assets/Sandwich.png', import.meta.url).href
     }, 
     {
         
         name: 'Pizza',
         price: 'Rs. 129/-',
-        url: '../src/assets/Pizza.png'
+        url: new URL('../../src/assets/Pizza.png', import.meta.url).href
     },
     {
         
         name: 'Biryani',
         price: '',
-        url: '../src/assets/Biryani.png'
+        url: new URL('../../src/assets/Biryani.png', import.meta.url).href
     },
     {
         
         name: 'Burger',
         price: '',
-        url: '../src/assets/Burger.png'
+        url: new URL('../../src/assets/Burger.png', import.meta.url).href
     }
 ]
 </script>
